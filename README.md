@@ -3,10 +3,16 @@ Senior Functional and Object-Oriented Full Stack developer with extensive experi
 # Technical Skills
 Languages (Ordered By Preference): Scala, Python, Node, Lua, Go 
 Systems: Mac (All Versions), Linux (Most Distributions), Windows (All Versions)
+
 Tools: Vim, Emacs, IntelliJ, VSCode
+
 Portfolios: 
+
+
 https://www.github.com/DeveloperMeier
+
 https://www.linkedin.com/in/developermeier 
+
 
 # Projects
 - Crowd sourced reverse WiFi location program and algorithm (patented)
