@@ -107,11 +107,11 @@ environments
     March 2012-December 2012
     Location: Kansas City, MO
 ## Duties: 
--All stages of iOS and Android development inside and outside of a Phonegap wrapper.
+	-All stages of iOS and Android development inside and outside of a Phonegap wrapper.
 	-HTML5/CSS3/Javascript/Jquery/Obj-C/Java programming
--All stages of Software Lifecycle 
--Wrote custom Java and Obj-C plugins to interact with more native phone functionality.
--Utilized OOP practices in Obj-C, Java, and Javascript.
+	-All stages of Software Lifecycle 
+	-Wrote custom Java and Obj-C plugins to interact with more native phone functionality.
+	-Utilized OOP practices in Obj-C, Java, and Javascript.
 
 
 
