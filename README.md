@@ -1,10 +1,13 @@
 Senior Functional and Object-Oriented Full Stack developer with extensive experience in multiple languages and frameworks for both Front-End and Back-end work. Experienced microservice developer with extensive experience with Docker, Terraform, and the AWS Stack.
 
 # Technical Skills
+
 Languages (Ordered By Preference): Scala, Python, Node, Lua, Go 
+
 Systems: Mac (All Versions), Linux (Most Distributions), Windows (All Versions)
 
 Tools: Vim, Emacs, IntelliJ, VSCode
+
 
 Portfolios: 
 
